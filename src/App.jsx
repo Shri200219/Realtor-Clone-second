@@ -22,8 +22,6 @@ function App() {
             <Route path='/sign-up' element={<SignUp/>} />
             <Route path='/forgot-password' element={<ForgotPassword/>} />
             <Route path='/offers' element={<Offers/>} />
-
-       
           </Routes>
         </Router>
     </>
